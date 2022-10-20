@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.gitfahim.plugincheck.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.gitfahim.plugincheck.MyBundle
 
 class MyApplicationService {
 
